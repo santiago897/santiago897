@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, IA and web development
 - 🌱 I’m currently learning web development tools (React Js)
 - 💞️ I’m looking to collaborate with the community
-- 📫 How to reach me smatta@alumnos.uai.cl
+- 📫 How to reach me chago_matta@hotmail.com
 
 <!---
 santiago897/santiago897 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
